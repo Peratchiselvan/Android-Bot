@@ -6,6 +6,7 @@ To contribute the resources for app development follow the instructions:
 2. Edit the "bot.py" file
 3. Go to line number 16 [This line](https://github.com/Peratchiselvan/heroku-telegram-bot/blob/master/bot.py#L16)
 4. Add the command and reply resources in the following format
-```"command":"Resource list......
+```
+"command":"Resource list......"
 ```
 5. Make the pull request. Thats it.
